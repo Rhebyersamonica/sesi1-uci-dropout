@@ -1,0 +1,13 @@
+skenario,model,accuracy,precision,recall,f1,roc_auc
+A. Saat pendaftaran,Baseline (tebak mayoritas),0.609,0.0,0.0,0.0,0.5
+A. Saat pendaftaran,Logistic Regression,0.774,0.687,0.777,0.729,0.859
+A. Saat pendaftaran,Decision Tree,0.751,0.691,0.656,0.673,0.807
+A. Saat pendaftaran,Random Forest,0.772,0.691,0.755,0.721,0.863
+B. Akhir semester 1,Baseline (tebak mayoritas),0.609,0.0,0.0,0.0,0.5
+B. Akhir semester 1,Logistic Regression,0.889,0.829,0.901,0.864,0.955
+B. Akhir semester 1,Decision Tree,0.851,0.782,0.859,0.819,0.918
+B. Akhir semester 1,Random Forest,0.88,0.836,0.862,0.849,0.947
+C. Akhir semester 2,Baseline (tebak mayoritas),0.609,0.0,0.0,0.0,0.5
+C. Akhir semester 2,Logistic Regression,0.922,0.872,0.938,0.904,0.975
+C. Akhir semester 2,Decision Tree,0.905,0.899,0.854,0.876,0.951
+C. Akhir semester 2,Random Forest,0.91,0.88,0.89,0.885,0.967
